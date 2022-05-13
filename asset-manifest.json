@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/latest-news-react/static/css/main.7b3e4b9b.css",
+    "main.js": "/latest-news-react/static/js/main.244f3851.js",
+    "index.html": "/latest-news-react/index.html",
+    "main.7b3e4b9b.css.map": "/latest-news-react/static/css/main.7b3e4b9b.css.map",
+    "main.244f3851.js.map": "/latest-news-react/static/js/main.244f3851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3e4b9b.css",
+    "static/js/main.244f3851.js"
+  ]
+}
